@@ -8,3 +8,9 @@
 - add app to settings.py
 - make migrations
 - test by running server
+
+## Setup 2
+- Create models (blog app)
+
+## Setup 3
+- Create admin panel
